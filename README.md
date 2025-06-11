@@ -1,1 +1,2 @@
 # smart-journal
+# AI incorporated
